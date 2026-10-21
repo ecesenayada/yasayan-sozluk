@@ -1,0 +1,18 @@
+YAŞAYAN SÖZLÜK - SİTEYİ GITHUB PAGES'TE YAYINLAMA (yaklaşık 10 dakika)
+
+1) github.com adresinden ücretsiz bir hesap açın (varsa giriş yapın).
+2) Sağ üstteki "+" > "New repository".
+   - Repository name: yasayan-sozluk
+   - "Public" seçili olsun > "Create repository".
+3) Açılan sayfada "uploading an existing file" bağlantısına tıklayın.
+4) Bu zip'ten çıkan klasörün İÇİNDEKİ her şeyi (index.html, assets, k klasörleri)
+   tarayıcı penceresine sürükleyip bırakın > "Commit changes".
+5) Depoda "Settings" > soldan "Pages" >
+   Source: "Deploy from a branch", Branch: "main" ve "/ (root)" > "Save".
+6) 1-2 dakika sonra site şu adreste açılır:
+   https://KULLANICIADINIZ.github.io/yasayan-sozluk/
+7) Telefonla bir kelime sayfasını açıp test edin, ör.:
+   https://KULLANICIADINIZ.github.io/yasayan-sozluk/k/nal/
+
+Not: QR kodlar bu adresi içerir. Değerlendirme bitene (6 Kasım) kadar depoyu
+silmeyin ve adını değiştirmeyin.
