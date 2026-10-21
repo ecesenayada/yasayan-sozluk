@@ -1,0 +1,40 @@
+01  Ahilik           https://ecesenayada.github.io/yasayan-sozluk/k/ahilik/
+02  Âşiyan           https://ecesenayada.github.io/yasayan-sozluk/k/asiyan/
+03  Avadanlık        https://ecesenayada.github.io/yasayan-sozluk/k/avadanlik/
+04  Bedesten         https://ecesenayada.github.io/yasayan-sozluk/k/bedesten/
+05  Buhurdan         https://ecesenayada.github.io/yasayan-sozluk/k/buhurdan/
+06  Cendere          https://ecesenayada.github.io/yasayan-sozluk/k/cendere/
+07  Cumba            https://ecesenayada.github.io/yasayan-sozluk/k/cumba/
+08  Çerağ            https://ecesenayada.github.io/yasayan-sozluk/k/cerag/
+09  Çıkrık           https://ecesenayada.github.io/yasayan-sozluk/k/cikrik/
+10  Çörten           https://ecesenayada.github.io/yasayan-sozluk/k/corten/
+11  Dalyan           https://ecesenayada.github.io/yasayan-sozluk/k/dalyan/
+12  Derbent          https://ecesenayada.github.io/yasayan-sozluk/k/derbent/
+13  Dibek            https://ecesenayada.github.io/yasayan-sozluk/k/dibek/
+14  Dokuma Tezgâhı   https://ecesenayada.github.io/yasayan-sozluk/k/dokuma-tezgahi/
+15  El Emeği         https://ecesenayada.github.io/yasayan-sozluk/k/el-emegi/
+16  Gönüldaş         https://ecesenayada.github.io/yasayan-sozluk/k/gonuldas/
+17  Göz Nuru         https://ecesenayada.github.io/yasayan-sozluk/k/goz-nuru/
+18  Hasbihal         https://ecesenayada.github.io/yasayan-sozluk/k/hasbihal/
+19  Heybe            https://ecesenayada.github.io/yasayan-sozluk/k/heybe/
+20  İbrik            https://ecesenayada.github.io/yasayan-sozluk/k/ibrik/
+21  İmaret           https://ecesenayada.github.io/yasayan-sozluk/k/imaret/
+22  İmece            https://ecesenayada.github.io/yasayan-sozluk/k/imece/
+23  Kaftan           https://ecesenayada.github.io/yasayan-sozluk/k/kaftan/
+24  Karakovan        https://ecesenayada.github.io/yasayan-sozluk/k/karakovan/
+25  Karasaban        https://ecesenayada.github.io/yasayan-sozluk/k/karasaban/
+26  Kırba            https://ecesenayada.github.io/yasayan-sozluk/k/kirba/
+27  Körük            https://ecesenayada.github.io/yasayan-sozluk/k/koruk/
+28  Mihman           https://ecesenayada.github.io/yasayan-sozluk/k/mihman/
+29  Mühür            https://ecesenayada.github.io/yasayan-sozluk/k/muhur/
+30  Nal              https://ecesenayada.github.io/yasayan-sozluk/k/nal/
+31  Ney              https://ecesenayada.github.io/yasayan-sozluk/k/ney/
+32  Örs              https://ecesenayada.github.io/yasayan-sozluk/k/ors/
+33  Parşömen         https://ecesenayada.github.io/yasayan-sozluk/k/parsomen/
+34  Pusula           https://ecesenayada.github.io/yasayan-sozluk/k/pusula/
+35  Sadaka Taşı      https://ecesenayada.github.io/yasayan-sozluk/k/sadaka-tasi/
+36  Saka             https://ecesenayada.github.io/yasayan-sozluk/k/saka/
+37  Sarnıç           https://ecesenayada.github.io/yasayan-sozluk/k/sarnic/
+38  Şadırvan         https://ecesenayada.github.io/yasayan-sozluk/k/sadirvan/
+39  Yadigâr          https://ecesenayada.github.io/yasayan-sozluk/k/yadigar/
+40  Yarenlik         https://ecesenayada.github.io/yasayan-sozluk/k/yarenlik/
